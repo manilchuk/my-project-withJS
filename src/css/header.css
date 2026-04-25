@@ -45,17 +45,16 @@ body.menu-open {
   height: 32px;
 }
 
-@media only screen and (max-width: 767px){
-.mobile-menu{
-  left: 0;
-}
+@media only screen and (max-width: 767px) {
+  .mobile-menu {
+    left: 0;
+  }
 }
 @media screen and (min-width: 768px) {
   .header-container {
     /* position: relative; */
     padding: 0 32px;
   }
-  
 }
 
 @media screen and (min-width: 1440px) {
